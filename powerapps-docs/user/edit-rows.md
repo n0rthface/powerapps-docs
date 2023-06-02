@@ -17,8 +17,6 @@ search.audienceType:
 
  # Edit multiple rows (Bulk edit)
  
- [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
- 
 You can edit multiple rows in model-driven apps and quickly update several columns of data across multiple rows in a single action. This is useful in scenarios when you need to update the same column for multiple rows.
 
 >[!NOTE]
