@@ -21,6 +21,9 @@ You can delete custom tables, but you can't delete standard tables. Notice that 
 > [!WARNING]
 > When you delete a table, you delete both the table definition and all data that the table contains. Tables and the data within them can't be recovered if deleted.
 
+> [!WARNING]
+> A table can only be deleted if the number of records in the table is below a threshold of 100,000,000.
+
 ## Delete a custom table
 
 1. Sign into [Power Apps](https://make.powerapps.com/?utm_source=padocs&utm_medium=linkinadoc&utm_campaign=referralsfromdoc), and then select **Solutions** in the left navigation pane. [!INCLUDE [left-navigation-pane](../../includes/left-navigation-pane.md)]
